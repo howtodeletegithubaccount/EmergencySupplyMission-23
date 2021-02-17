@@ -1,2 +1,1 @@
-# EmergencySupplyMission-23
-(CLASSIED INFORMATION LEVEL 7 AUTHORIZTION ONLY)
+# SupplyMission
